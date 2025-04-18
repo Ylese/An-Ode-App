@@ -13,9 +13,10 @@ Whether you're organizing your wardrobe or finding new looks, An Ode is here to 
 ## Getting Started
 
 ### Prerequisites
-- [Node.js]
-- [Expo CLI]
-- [Git]
+- [Node.js](https://nodejs.org/en)
+- [Expo CLI](https://docs.expo.dev/get-started/create-a-project/)
+- [Git](https://git-scm.com/)
+- [Expo Go](https://expo.dev/client)
 
 
 ### Installation
